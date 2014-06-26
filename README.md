@@ -29,4 +29,4 @@ java -jar target/server.jar
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © Tommi Reiman 2014
