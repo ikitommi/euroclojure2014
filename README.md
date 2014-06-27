@@ -23,10 +23,6 @@ lein with-profile [simple|simple-api|swagger-api] do clean, ring uberjar
 java -jar target/server.jar
 ```
 
-### Packaging as war
-
-`lein ring uberwar`
-
 ## License
 
 Copyright © Tommi Reiman 2014
